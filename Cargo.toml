@@ -98,7 +98,7 @@ __internal_proxy_sys_no_cache = []
 [dependencies]
 base64 = "0.22"
 http = "1"
-url = "<2.5.0"
+url = "2.3.1"
 bytes = "1.0"
 serde = "1.0"
 serde_urlencoded = "0.7.1"
